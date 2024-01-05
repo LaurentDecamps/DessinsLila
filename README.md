@@ -6,6 +6,7 @@
 | [Lemon interactive](https://www.lemon-interactive.fr)| Oui    | NON| NON     | A rappeler / msg laissé sur facebook |
 | [Cocoa](https://lagencecocoa.com/)| NON    | NON| NON     | |
 | [Kamelecom](https://kamelecom.fr)| NON    | NON| NON     | A fache Thusmenil pas loin de l'appart|
+| Dalt | NON    | NON| NON     | |
 | Whatson web | NON    | NON| NON     | |
 | Agence Spritz | NON    | NON| NON     | |
 | Keblow | NON    | NON| NON     | |
